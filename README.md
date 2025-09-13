@@ -1,2 +1,2 @@
 # SQL-Data-Warehouse
-Building data warehousr with SQL Server
+Building data warehouse with SQL Server
